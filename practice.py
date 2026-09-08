@@ -22,3 +22,5 @@ a=2
 print(id(a))
 a=3
 print(id(a))
+str="hello"
+ 
