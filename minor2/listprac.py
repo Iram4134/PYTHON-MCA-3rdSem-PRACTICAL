@@ -13,3 +13,4 @@ print(A[3:3:3])
 print(len(A[3:]))
 print(len(A[-3:]))
 print(len(A[::-3]))
+
